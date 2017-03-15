@@ -2,7 +2,7 @@
 body{
 	width: 940px;
 	margin: 0 auto;
-	background-image: url("/Users/wu/Documents/fitness/images/bg.jpg");
+	background-image: url("./images/bg.jpg");
 	background-repeat: repeat;
 }
 .header{
